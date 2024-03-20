@@ -87,6 +87,7 @@
       {
         "id": "38de8dc4027b8b25",
         "type": "tabs",
+        "dimension": 58.57740585774059,
         "children": [
           {
             "id": "8145b578a58139a6",
@@ -144,6 +145,7 @@
       {
         "id": "ccacb6d6e4d882c9",
         "type": "tabs",
+        "dimension": 41.42259414225941,
         "children": [
           {
             "id": "66ddecce462803d2",
@@ -169,7 +171,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ded92c4c387e24d",
+  "active": "66ddecce462803d2",
   "lastOpenFiles": [
     "Policies Page.md",
     "Search Page.md"
