@@ -1,2 +1,4 @@
-![[Dashboards Page.png]]
+![Dashboards Page](./images/Dashboards/DashboardsPage.png)
+
+
 

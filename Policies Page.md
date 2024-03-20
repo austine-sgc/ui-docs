@@ -1,4 +1,4 @@
-![[Policies Page.png]]
+![Policies Page](./images/Policies/PoliciesPage.png)
 
 The Policies Page is where the organization controls which policies are monitored. 
 
