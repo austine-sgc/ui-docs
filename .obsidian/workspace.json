@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Policies Page.md",
+                "file": "Alerts Page.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Policies Page.md",
+                "file": "Alerts Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Policies Page.md",
+                "file": "Alerts Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Policies Page.md"
+                "file": "Alerts Page.md"
               }
             }
           }
@@ -173,12 +173,13 @@
   "active": "1be4bd94c4cdb156",
   "lastOpenFiles": [
     "Search Page.md",
+    "Alerts Page.md",
+    "Archive Page.md",
+    "Admin Page.md",
+    "Policies Page.md",
     "Images/Search/SearchPage.png",
     "Dashboards Page.md",
-    "Admin Page.md",
-    "Alerts Page.md",
     "Images/Alerts/AlertsPage.png",
-    "Archive Page.md",
     "Images/Archive.md",
     "images/Archive.md",
     "Images/Archive",
@@ -186,7 +187,6 @@
     "Images/Archive/ArchivePage.png",
     "Images/Search",
     "Images/Admin",
-    "Documentation.md",
-    "Policies Page.md"
+    "Documentation.md"
   ]
 }
