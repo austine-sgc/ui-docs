@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admin Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Admin Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Admin Page.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -168,8 +164,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1be4bd94c4cdb156",
+  "active": "b14a18f10a867949",
   "lastOpenFiles": [
+    "Admin Page.md",
     "Archive Page.md",
     "Alerts Page.md",
     "Search Page.md",
@@ -177,7 +174,6 @@
     "Dashboards Page.md",
     "Images/Alerts/AlertsMessage.png",
     "Policies Page.md",
-    "Admin Page.md",
     "Images/Search/SearchPage.png",
     "Images/Alerts/AlertsPage.png",
     "Images/Archive.md",
