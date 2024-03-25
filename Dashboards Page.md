@@ -1,4 +1,6 @@
-![Dashboards Page](./images/Dashboards/DashboardsPage.png)
+# Dashboards Page
+
+![Dashboards Page](Images/Dashboards/DashboardsPage.png)
 
 
 

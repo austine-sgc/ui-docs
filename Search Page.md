@@ -1,4 +1,6 @@
-![Search Page](SearchPage.png)
+# Search Page 
+
+![Search Page](Images/Search/SearchPage.png)
 
 The Search Page allows users to search and refine results. 
 ## Usage

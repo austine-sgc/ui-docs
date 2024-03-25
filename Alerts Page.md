@@ -1,3 +1,5 @@
+# Alerts Page 
+
 ![Alerts Page](Images/Alerts/AlertsPage.png)
 
 The Alerts Page shows all messages that violated one of the active policies within the organization being monitored. 
