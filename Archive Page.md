@@ -1,2 +1,2 @@
-![Archive Page](/images/Archive/ArchivePage.png)
+![Archive Page](images/Archive/ArchivePage.png)
 

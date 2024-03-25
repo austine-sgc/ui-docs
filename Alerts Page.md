@@ -13,3 +13,10 @@ The Alerts Page shows all messages that violated one of the active policies with
 `Content of Message` - Shows the reader the message sent
 
 
+## UI
+
+### Alert Message
+
+![Alert Message](./images/alerts/AlertsMessage.png)
+
+The Content of Message column will highlight the violated policy, and give a small note about the policy violation. [[Policies Page]]
