@@ -10,5 +10,5 @@ Documentation of the Safeguard Cyber 8 Application
 - [[Admin Page]]
 
 **Pages:**
-- [Home Page](Home Page.md)
+- [Home Page](/Home Page.md)
 - 
