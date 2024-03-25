@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation.md",
+                "file": "Home_Page.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation.md",
+                "file": "Home_Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation.md",
+                "file": "Home_Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentation.md"
+                "file": "Home_Page.md"
               }
             }
           }
@@ -170,22 +170,22 @@
   },
   "active": "67a498d844d5ce36",
   "lastOpenFiles": [
-    "Dashboards Page.md",
-    "Archive Page.md",
-    "Alerts Page.md",
+    "Documentation.md",
+    "Home_Page.md",
+    "Search_Page.md",
+    "Policies_Page.md",
+    "Dashboards_Page.md",
+    "Archive_Page.md",
+    "Alerts_Page.md",
+    "Admin_Page.md",
     "Images/Alerts/AlertsPageRemediation.png",
     "Images/Alerts/AlertsPageAlertExample3.png",
     "Images/Alerts/AlertsPageAlertExample2.png",
     "Images/Admin/AdminPage.png",
     "Images/Admin/AdminPage.png",
-    "Home Page.md",
     "Images/Home/HomePageMalwareRecipientsHovered.png",
     "Images/Home/HomePagePolicyIndicatorsbyChannel.png",
     "Images/Home/HomePagePolicyIndicators.png",
-    "Policies Page.md",
-    "Admin Page.md",
-    "Documentation.md",
-    "Search Page.md",
     "Images/Alerts/AlertsPageAlertExample.png",
     "Images/Search/SearchPage.png",
     "Images/Archive.md",

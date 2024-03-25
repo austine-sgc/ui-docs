@@ -22,7 +22,7 @@ The Alerts Page shows all messages that violated one of the active policies with
 ![Alert Message Example](Images/Alerts/AlertsPageAlertExample.png)
 *Alerts Message with Highlighted Message Content*
 
-The Content of Message column will highlight the violated policy, and give a small note about the policy violation. [[Policies Page]]. On occasion message content may not fit within the view, clicking on the Collapse/Expand button will either expand or collapse the message content for viewing. 
+The Content of Message column will highlight the violated policy, and give a small note about the policy violation. [[Policies_Page]]. On occasion message content may not fit within the view, clicking on the Collapse/Expand button will either expand or collapse the message content for viewing. 
 
 
 ![Alert Message Example 2](Images/Alerts/AlertsPageAlertExample2.png)
