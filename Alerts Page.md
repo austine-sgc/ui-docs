@@ -45,4 +45,4 @@ Selecting the arrows to either side of the message content will take the user th
 ### Remediation
 
 ![Alerts Page - Remediation Dialog](Images/Alerts/AlertsPageRemediation.png)
-
+*Remediation Dialog*

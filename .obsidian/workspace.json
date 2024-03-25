@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alerts Page.md",
+                "file": "Documentation.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "deeffae1cef6303b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Home/HomePagePolicyIndicators.png"
               }
             }
           }
@@ -103,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Documentation.md"
+              }
             }
           }
         ],
@@ -174,8 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b14a18f10a867949",
+  "active": "67a498d844d5ce36",
   "lastOpenFiles": [
+    "Dashboards Page.md",
+    "Archive Page.md",
     "Alerts Page.md",
     "Images/Alerts/AlertsPageRemediation.png",
     "Images/Alerts/AlertsPageAlertExample3.png",
@@ -188,8 +184,6 @@
     "Images/Home/HomePagePolicyIndicators.png",
     "Policies Page.md",
     "Admin Page.md",
-    "Archive Page.md",
-    "Dashboards Page.md",
     "Documentation.md",
     "Search Page.md",
     "Images/Alerts/AlertsPageAlertExample.png",
