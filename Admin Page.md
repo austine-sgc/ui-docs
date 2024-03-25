@@ -1,4 +1,4 @@
-![Admin Page](./images/alerts/AlertsPage.png)
+![Admin Page](/images/alerts/AlertsPage.png)
 
 
 
