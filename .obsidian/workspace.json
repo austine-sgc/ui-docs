@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Admin Page.md",
+                "file": "Home Page.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "deeffae1cef6303b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Home/HomePagePolicyIndicators.png"
               }
             }
           }
@@ -93,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admin Page.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Admin Page.md",
+                "file": "Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Admin Page.md"
+                "file": "Home Page.md"
               }
             }
           }
@@ -168,16 +178,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67a498d844d5ce36",
+  "active": "1aeec05887a8038d",
   "lastOpenFiles": [
+    "Images/Home/HomePageMalwareRecipientsHovered.png",
+    "Home Page.md",
+    "Images/Home/HomePagePolicyIndicatorsbyChannel.png",
+    "Images/Home/HomePagePolicyIndicators.png",
+    "Policies Page.md",
+    "Admin Page.md",
     "Alerts Page.md",
     "Archive Page.md",
     "Dashboards Page.md",
     "Documentation.md",
-    "Home Page.md",
-    "Policies Page.md",
     "Search Page.md",
-    "Admin Page.md",
     "Images/Alerts/AlertsMessage.png",
     "Images/Search/SearchPage.png",
     "Images/Alerts/AlertsPage.png",
