@@ -17,7 +17,7 @@ The policy indicators widget shows a graph of potential threats marked by the ac
 
 ### Potential Malware Recipients
 
-The Potential Malware Recipients widget shows organization users that may have recently received a malware threat. Hovering over a name, will show the number of threats the organization user may have received. Clicking on a hovered name will navigate the user to the [[Alerts_Page]] where they can explore the potential threat further. 
+The Potential Malware Recipients widget shows organization users that may have recently received a malware threat. Hovering over a name, will show the number of threats the organization user may have received. Clicking on a hovered name will navigate the user to the [Alerts Page](Alerts_Page.md) where they can explore the potential threat further. 
 
 ![Home Page - Malware Recipients](Images/Home/HomePageMalwareRecipients.png)
 *Potential Malware Recipients Widget*
@@ -27,7 +27,7 @@ The Potential Malware Recipients widget shows organization users that may have r
 
 ### Daily Messages
 
-The Daily Messages widget shows message sent by organization users. Hovering over a name highlights the organization user's messages on the graph. Selecting the organization user's name will navigate the user to the [[Archive_Page]] where they can explore the data deeper. 
+The Daily Messages widget shows message sent by organization users. Hovering over a name highlights the organization user's messages on the graph. Selecting the organization user's name will navigate the user to the [Archive Page](Archive_Page.md) where they can explore the data deeper. 
 
 ![Home Page - Daily Messages](Images/Home/HomePageDailyMessages.png)
 *Daily Messages Widget*
@@ -37,7 +37,7 @@ The Daily Messages widget shows message sent by organization users. Hovering ove
 
 ### People of Interest
 
-The People of Interest widget highlights organization users that are not in compliance with the organizations tracked policies. This widget shows shows each user and the count of each policy that they are in non-compliance of. Selecting one of the policies will navigate the user to the [[Alerts_Page]] where they can view the potential threats in greater detail. 
+The People of Interest widget highlights organization users that are not in compliance with the organizations tracked policies. This widget shows shows each user and the count of each policy that they are in non-compliance of. Selecting one of the policies will navigate the user to the [Alerts Page](Alerts_Page.md) where they can view the potential threats in greater detail. 
 
 ![Home Page - People of Interest](Images/Home/HomePagePeopleOfInterest.png)
 *People of Interest Widget*

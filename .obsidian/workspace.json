@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home_Page.md",
+                "file": "Search_Page.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home_Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home_Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,13 +130,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home_Page.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "a6193647fa7ec53a",
@@ -168,16 +164,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67a498d844d5ce36",
+  "active": "b14a18f10a867949",
   "lastOpenFiles": [
-    "Documentation.md",
-    "Home_Page.md",
     "Search_Page.md",
     "Policies_Page.md",
+    "Home_Page.md",
+    "Documentation.md",
     "Dashboards_Page.md",
     "Archive_Page.md",
-    "Alerts_Page.md",
     "Admin_Page.md",
+    "Alerts_Page.md",
     "Images/Alerts/AlertsPageRemediation.png",
     "Images/Alerts/AlertsPageAlertExample3.png",
     "Images/Alerts/AlertsPageAlertExample2.png",
