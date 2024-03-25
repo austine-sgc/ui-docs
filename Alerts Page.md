@@ -1,4 +1,4 @@
-![Alerts Page](./images/Alerts/AlertsPage.png)
+![Alerts Page](Images/Alerts/AlertsPage.png)
 
 The Alerts Page shows all messages that violated one of the active policies within the organization being monitored. 
 
@@ -17,6 +17,6 @@ The Alerts Page shows all messages that violated one of the active policies with
 
 ### Alert Message
 
-![Alert Message](./images/alerts/AlertsMessage.png)
+![Alert Message](Images/Alerts/AlertsMessage.png)
 
 The Content of Message column will highlight the violated policy, and give a small note about the policy violation. [[Policies Page]]

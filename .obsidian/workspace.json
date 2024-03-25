@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0b5539c2271e04dd",
+        "id": "463460a0c09ee56b",
         "type": "tabs",
         "children": [
           {
-            "id": "1be4bd94c4cdb156",
+            "id": "67a498d844d5ce36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Admin Page.md",
+                "file": "Archive Page.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Archive Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Archive Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Archive Page.md"
+              }
             }
           }
         ],
@@ -164,11 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b14a18f10a867949",
+  "active": "67a498d844d5ce36",
   "lastOpenFiles": [
-    "Admin Page.md",
-    "Archive Page.md",
     "Alerts Page.md",
+    "Archive Page.md",
+    "Admin Page.md",
     "Search Page.md",
     "Home Page.md",
     "Dashboards Page.md",
