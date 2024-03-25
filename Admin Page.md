@@ -1,4 +1,6 @@
-![Admin Page](/images/alerts/AlertsPage.png)
+# Admin Page
+
+![Admin Page](/images/alerts/AlertsPage.png?raw=true)
 
 
 
