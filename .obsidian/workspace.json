@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Search_Page.md",
+                "file": "Admin_Page.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d921de7727728ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Admin_Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Admin_Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,11 +144,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Admin_Page.md"
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "a6193647fa7ec53a",
@@ -164,26 +180,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b14a18f10a867949",
+  "active": "67a498d844d5ce36",
   "lastOpenFiles": [
+    "Alerts_Page.md",
+    "extra_info/User_Roles.md",
+    "Admin_Page.md",
+    "extra_info/User_Role.md",
+    "Documentation.md",
+    "extra_info",
+    "Images/Admin/AdminUsers.png",
+    "Images/Admin/AdminIntegrations.png",
+    "Images/Admin/AdminCustomers.png",
+    "Images/Admin/AdminChannels.png",
+    "Archive_Page.md",
     "Search_Page.md",
     "Policies_Page.md",
     "Home_Page.md",
-    "Documentation.md",
     "Dashboards_Page.md",
-    "Archive_Page.md",
-    "Admin_Page.md",
-    "Alerts_Page.md",
+    "Images/Dashboards/DashboardsPageTop.png",
+    "Images/Dashboards/DashboardsPageKeywordCompassHovered.png",
+    "Images/Dashboards/DashboardsPageKeywordCompass.png",
     "Images/Alerts/AlertsPageRemediation.png",
     "Images/Alerts/AlertsPageAlertExample3.png",
     "Images/Alerts/AlertsPageAlertExample2.png",
-    "Images/Admin/AdminPage.png",
-    "Images/Admin/AdminPage.png",
-    "Images/Home/HomePageMalwareRecipientsHovered.png",
-    "Images/Home/HomePagePolicyIndicatorsbyChannel.png",
-    "Images/Home/HomePagePolicyIndicators.png",
-    "Images/Alerts/AlertsPageAlertExample.png",
-    "Images/Search/SearchPage.png",
     "Images/Archive.md",
     "images/Archive.md",
     "Images/Archive",

@@ -8,3 +8,7 @@ Documentation of the Safeguard Cyber 8 Application
 - [Alerts Page](Alerts_Page.md)
 - [Search Page](Search_Page.md)
 - [Admin Page](Admin_Page.md)
+
+**Additional Info:**
+- [User Roles](extra_info/User_Roles.md)
+- 
