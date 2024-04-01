@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation.md",
+                "file": "Policies_Page.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -182,30 +183,30 @@
   },
   "active": "67a498d844d5ce36",
   "lastOpenFiles": [
-    "Alerts_Page.md",
+    "Images/Admin/Customers/ManageCustomers.png",
+    "Images/Admin/Customers/AdminUsers.png",
+    "Policies_Page.md",
     "Admin_Page.md",
-    "Images/Admin/Customers/ManageCustomers.png",
-    "Images/Admin/Customers/ManageCustomers.png",
+    "Images/Admin/Users/Settings/EmailTemplates.png",
+    "Images/Admin/Users/Settings/AdjustPolicies.png",
+    "Images/Admin/Users/Settings/ExportSettings.png",
+    "Images/Admin/Users/Settings/SCIMSettings.png",
+    "Images/Admin/Users/Settings/EmailSettings.png",
+    "Images/Admin/Users/Settings/CustomLogo.png",
+    "Images/Admin/Users/Settings/AdminUserSettings.png",
+    "Home_Page.md",
+    "README.md",
+    "Alerts_Page.md",
     "Images/Admin/Customers/AddCustomer.png",
     "Images/Admin/Customers",
     "Images/Admin/Users/Settings",
-    "Images/Admin/Users/UserDetails.png",
-    "Images/Admin/Users/ManageInvites.png",
-    "Images/Admin/Users/AddNewUser.png",
     "Images/Admin/Users",
-    "Images/Admin/Channels/AdminChannelsAddChannel.png",
     "Images/Admin/Channels",
     "extra_info/User_Roles.md",
     "extra_info/User_Role.md",
-    "Documentation.md",
     "extra_info",
-    "Images/Admin/Users/AdminUsers.png",
-    "Images/Admin/AdminIntegrations.png",
-    "Images/Admin/Customers/AdminCustomers.png",
     "Archive_Page.md",
     "Search_Page.md",
-    "Policies_Page.md",
-    "Home_Page.md",
     "Dashboards_Page.md",
     "Images/Archive.md",
     "images/Archive.md",

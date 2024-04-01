@@ -58,17 +58,38 @@ To remove a user simply select the **Remove User** button next to the user you w
 
 
 #### Settings 
+![Admin - User Settings](Images/Admin/Users/Settings/AdminUserSettings.png)
+
+The settings page allows the user to manage various aspects of their organization and its representation within the SafeGuard Cyber app. 
 ##### Custom Logo
+![Custom Logo](Images/Admin/Users/Settings/CustomLogo.png)
+
+Sets a custom logo for the user's organization. 
 
 ##### Email Settings 
+![Email Settings](Images/Admin/Users/Settings/EmailSettings.png)
+
+Email settings are needed for the user's organization to send emails from the platform. This allows the user to set their mail host. 
 
 ##### Email Templates
+![Email Templates](Images/Admin/Users/Settings/EmailTemplates.png)
+
+Email templates allow the user to manage the emails sent from the SGC8 app. 
 
 ##### Create SCIM Settings 
+![SCIM Settings](Images/Admin/Users/Settings/SCIMSettings.png)
+
+The SCIM settings allows the user's organization link with their SCIM service to the SGC8 platform. To do this, the user will need a SCIM URL and Access Token. This page also allows the user to toggle the SCIM service off and on. 
 
 ##### Update Export Settings 
+![Export Settings](Images/Admin/Users/Settings/ExportSettings.png)
+
+The first step with email export settings allows the user to configure hosting, sender email, etc for email exports of archives. The second step (appears after saving settings from the first), allows the user to switch between each of their currently active channels and add emails to receive the exports for that channel.
 
 ##### Adjust Policies
+
+![Adjust Policies](Images/Admin/Users/Settings/AdjustPolicies.png)
+
 
 
 
@@ -84,6 +105,9 @@ The Integrations tab is only accessible to **[SGC Super Admins](extra_info/User_
 This tab is similar to the Applications tab. The Integrations tab is contains global settings for the user organization. Currently this page is used mainly in demos / poc / SGC global settings. 
 
 ### Managing Integrations
+
+
+
 
 
 ---
