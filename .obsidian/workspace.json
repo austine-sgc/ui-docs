@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Admin_Page.md",
+                "file": "Alerts_Page.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Admin_Page.md",
+                "file": "Alerts_Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Admin_Page.md",
+                "file": "Alerts_Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Admin_Page.md"
+                "file": "Alerts_Page.md"
               }
             }
           }
@@ -183,6 +183,10 @@
   },
   "active": "67a498d844d5ce36",
   "lastOpenFiles": [
+    "Alerts_Page.md",
+    "Images/Alerts/AlertsPageAlertExample.png",
+    "Images/Alerts/MessageContent.png",
+    "Images/Alerts/MessageDetails.png",
     "Admin_Page.md",
     "Images/Admin/Customers/ManageCustomers.png",
     "Images/Admin/Customers/AdminUsers.png",
@@ -192,12 +196,8 @@
     "Images/Admin/Users/Settings/ExportSettings.png",
     "Images/Admin/Users/Settings/SCIMSettings.png",
     "Images/Admin/Users/Settings/EmailSettings.png",
-    "Images/Admin/Users/Settings/CustomLogo.png",
-    "Images/Admin/Users/Settings/AdminUserSettings.png",
     "Home_Page.md",
     "README.md",
-    "Alerts_Page.md",
-    "Images/Admin/Customers/AddCustomer.png",
     "Images/Admin/Customers",
     "Images/Admin/Users/Settings",
     "Images/Admin/Users",

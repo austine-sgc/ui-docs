@@ -19,10 +19,10 @@ The Alerts Page shows all messages that violated one of the active policies with
 
 ### Alert Message Content
 
-![Alert Message Example](Images/Alerts/AlertsPageAlertExample.png)
+![Alert Message Example](Images/Alerts/MessageContent.png)
 *Alerts Message with Highlighted Message Content*
 
-The Content of Message column will highlight the violated policy, and give a small note about the policy violation. [Policies Page](Policies_Page.md). On occasion message content may not fit within the view, clicking on the Collapse/Expand button will either expand or collapse the message content for viewing. 
+The Content of Message column shows the message that created the alert. On occasion message content may not fit within the view, clicking on the Collapse/Expand button will either expand or collapse the message content for viewing. 
 
 
 ![Alert Message Example 2](Images/Alerts/AlertsPageAlertExample2.png)
@@ -46,3 +46,9 @@ Selecting the arrows to either side of the message content will take the user th
 
 ![Alerts Page - Remediation Dialog](Images/Alerts/AlertsPageRemediation.png)
 *Remediation Dialog*
+
+### Message Details
+
+![Alert Details](Images/Alerts/MessageDetails.png)
+
+After clicking the *Details* button, a view will open showing the full details of the alert. This screen will highlight the violated policy, and give a small note about the policy violation. Read more about [Policies](Policy_Page.md).
